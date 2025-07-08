@@ -47,7 +47,7 @@ Hi, I'm **Muhammad Rayan Shahid** — a 15-year-old aspiring AI Engineer from Ka
 
 - 💻 Freelancer building real-world AI solutions
 - 🎙️ Founder of [ByteBrilliance AI](https://www.youtube.com/@ByteBrillianceAI)
-- 📚 Passionate about mastering AI and helping the Ummah with technology
+- 📚 Passionate about mastering AI and technology
 
 📬 **Let's connect:**  
 🔗 [GitHub](https://github.com/rayan-ai) | 🎥 [YouTube](https://www.youtube.com/@ByteBrillianceAI)
