@@ -22,7 +22,7 @@ Here’s a sample prediction from the model:
 
 <img src="screenshot.png" alt="Sample Prediction Output" width="400"/>
 
-> ✨ Replace `screenshort.png` with your actual screenshot filename when uploading it to GitHub
+
 
 ---
 
